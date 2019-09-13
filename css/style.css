@@ -1,0 +1,37 @@
+body{
+    background: blue;
+}
+
+
+img {
+    width: 140px;
+    height: 180px;
+}
+
+.name{
+    font-size: 30px;
+}
+
+.container{
+    background: pink;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.wrapper{
+    background: white;
+    max-width:1000px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.wrapper2{
+    margin: 40px 0px 0px 0px;
+    background:black;
+    color: white;
+}
+
+.footer{
+    text-align: right;
+}
