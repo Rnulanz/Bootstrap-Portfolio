@@ -56,14 +56,16 @@ img {
 margin-top: 20px;
 }
 
-.pro1{
-margin-left: 35%;
+.pro1 ,.soft1{
+margin-left: 30%;
 width: 200px;
 height: 200px;
+margin-bottom: 20px;
 }
 
-.soft1{
-    margin-left: 35%;
+.pro2 , .soft2{
+    margin-left: 30%;
     width: 200px;
     height: 200px;
+    margin-top: 20px;
 }
