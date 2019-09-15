@@ -3,21 +3,21 @@ body{
 }
 
 
-img {
-        width: 100px;
+img, .pro2 , .soft2,.pro1 ,.soft1 {
+        width: auto;
         height: auto;
 }
 /* sm */
-@media (min-width: 768px) {
+@media (min-width: 576px) {
     img {
-        width: 400px;
-        height: 400px;
+        width: 220px;
+        height: 800px;
     }
 }
 /* md */
-@media (min-width: 992px) {
+@media (min-width: 768px) {
     img {
-        width: 400px;
+        width: 280x;
         height: 400px;
     }
 }
