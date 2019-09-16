@@ -1,5 +1,5 @@
 body{
-    background: blue;
+    background: lightblue;
     font-family: 'Saira Stencil One', cursive;
 }
 
@@ -68,23 +68,27 @@ img, .pro2 , .soft2,.pro1 ,.soft1 {
 }
 
 .container{
-    background: pink;
+    background: white;
     max-width: 90%;
     margin: 20px auto;
     padding: 20px;
 }
 
 .wrapper{
-    background: white;
+    background:pink;
     max-width:100%;
     margin: 20px auto;
     padding: 20px;
 }
 
 .wrapper2{
-    margin: 40px 0px 0px 0px;
+    margin: -20px 0px 0px 0px;
     background:black;
     color: white;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
 }
 
 .footer{
