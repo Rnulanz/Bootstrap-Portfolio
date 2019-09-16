@@ -1,5 +1,6 @@
 body{
     background: blue;
+    font-family: 'Saira Stencil One', cursive;
 }
 
 
@@ -22,10 +23,18 @@ img, .pro2 , .soft2,.pro1 ,.soft1 {
     }
 }
 /* lg */
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
     img {
+        width: 260px;
+        height: 220px
+    }
+}
+
+@media (min-width: 1200px) {
+    img{
         width: 180px;
-        height: 180px
+        height: 180px;
+
     }
 }
 .par1{
@@ -41,11 +50,21 @@ img, .pro2 , .soft2,.pro1 ,.soft1 {
 .par3{
     text-indent: 20px;
 }
+.cont1{
+    background-color: whitesmoke; 
+}
 .name{
     font-size: 30px;
     text-align: center;
     background: gray;
    
+}
+#id{
+    background-color: whitesmoke;
+}
+.me, .cont{
+    font-size: 25px;
+    border-bottom: solid black 2px;
 }
 
 .container{
@@ -74,6 +93,13 @@ img, .pro2 , .soft2,.pro1 ,.soft1 {
 
 .btn{
 margin-top: 20px;
+background: yellow;
+color:purple;
+cursor: pointer;
+}
+
+.btn:hover{
+    background-color: blue;
 }
 
 .pro1 ,.soft1{
