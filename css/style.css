@@ -12,14 +12,14 @@ img, .pro2 , .soft2,.pro1 ,.soft1 {
 @media (min-width: 576px) {
     img {
         width: 220px;
-        height: 800px;
+        height: 500px;
     }
 }
 /* md */
 @media (min-width: 768px) {
     img {
         width: 280x;
-        height: 400px;
+        height: 260px;
     }
 }
 /* lg */
