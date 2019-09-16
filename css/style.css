@@ -57,6 +57,7 @@ img, .pro2 , .soft2,.pro1 ,.soft1 {
     font-size: 30px;
     text-align: center;
     background: gray;
+    margin: 0px 0px -70px 0px;  
    
 }
 #id{
@@ -93,6 +94,7 @@ img, .pro2 , .soft2,.pro1 ,.soft1 {
 
 .footer{
     text-align: right;
+    position: fixed;
 }
 
 .btn{
